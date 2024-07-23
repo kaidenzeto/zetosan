@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Swisstronik Tesnet Techinal Task 2
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
@@ -110,3 +111,6 @@ github : [Mnuralim](https://github.com/Mnuralim)
 twitter : @Izzycracker04
 telegram : @fitriay19
 //0x37401D115bC52bBdaa59Df7f7e021523b020F98f
+=======
+peler kuda
+>>>>>>> 1ddefb727c79bf1022befcabde900cd35fcbe824
